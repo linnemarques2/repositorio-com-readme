@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README (●'◡'●)
 
-[<img src="./animação.gif" alt="gif da tela inicial do projeto x">](https://google.com)
+[<img src="./animacao.gif" alt="gif da tela inicial do projeto x">](https://google.com)
 
 ### Tecnologias utilizadas
 - HTML
